@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./defontibuspluta00kuypgoog_0006.png"; bbox 0 0 3286 5272; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 343 2140 1057 2228">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 343 2140 1057 2228">
+     <span class='ocr_line' id='line_1_1' title="bbox 343 2140 1057 2228; baseline 0 -4"><span class='ocrx_word' id='word_1_1' title='bbox 343 2180 345 2183; x_wconf 95' lang='lat'>·</span> <span class='ocrx_word' id='word_1_2' title='bbox 523 2141 619 2224; x_wconf 90' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 658 2140 1057 2228; x_wconf 81' lang='lat' dir='ltr'>FONTIBUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 313 2449 1268 2590">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 2449 1268 2590">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 2449 1268 2590; baseline 0.002 -36"><span class='ocrx_word' id='word_1_4' title='bbox 313 2449 765 2590; x_wconf 70' lang='lat' dir='ltr'><strong>PLUTARCffl</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 811 2455 911 2555; x_wconf 78' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 953 2450 1268 2556; x_wconf 62' lang='lat' dir='ltr'>APPIANI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 414 2784 1167 2854">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 414 2784 1167 2854">
+     <span class='ocr_line' id='line_1_3' title="bbox 414 2784 1167 2854; baseline 0.001 -3"><span class='ocrx_word' id='word_1_7' title='bbox 414 2785 466 2852; x_wconf 92' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 500 2785 611 2852; x_wconf 85' lang='lat' dir='ltr'>VITA</span> <span class='ocrx_word' id='word_1_9' title='bbox 649 2784 822 2854; x_wconf 85' lang='lat' dir='ltr'>SULLAE</span> <span class='ocrx_word' id='word_1_10' title='bbox 860 2785 1167 2854; x_wconf 81' lang='lat' dir='ltr'><strong>ENARRANDA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1648 5272">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1648 5272">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1648 5272; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1648 5272; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
